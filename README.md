@@ -7,5 +7,7 @@
 #### 文字识别，表格识别，公式识别，批量识别，PDF转Word。不用多平台注册，方便切换接口。QQ群: 369653532
 
 
+#### 相比天若OCR,PandaOCR 等竞品，跨平台支持Mac，不用注册（但可选）各平台账号密匙
+
 ## 教程
 https://docs.easyuseai.com/guide
