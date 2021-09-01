@@ -1,5 +1,5 @@
 # easyuseai
-易用AI http://easyuseai.com/
+易用AI https://easyuseai.com/
 
 
 ## 帮您更好地使用各大AI平台的能力
