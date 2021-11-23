@@ -9,7 +9,7 @@
 
 ## 相比天若OCR,PandaOCR 等竞品，跨平台支持Mac，不用注册（但可选）各平台账号密匙
 
-## 后续版本规划使用PaddleOCR，tesseract等开源库实现本地OCR功能。
+### 后续版本规划使用PaddleOCR，tesseract等开源库实现本地OCR功能。
 
 ## 教程
 https://docs.easyuseai.com/guide
