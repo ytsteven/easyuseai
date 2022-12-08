@@ -33,7 +33,8 @@ OCR 功能：
 ## 安装
 [官网下载](http://easyuseai.com)
 
-![下载](./images/guide/download.png)
+<!-- ![下载](./images/guide/download.png) -->
+<img src="./images/guide/download.png" alt="下载" width=548>
 
 ## 使用方法
 详细使用方法请直接查看文档 [👉 点此跳转文档](https://docs.easyuseai.com)
@@ -41,10 +42,12 @@ OCR 功能：
 易用AI 是一个菜单栏软件，启动之后，菜单栏会出现一个图标，点击菜单选项即可触发相应的功能，如下所示：
 
 ### Mac 托盘菜单
-![下载](./images/guide/introduction/use/apptray-mac-1.jpg)
+<!-- ![下载](./images/guide/introduction/use/apptray-mac-1.jpg) -->
+<img src="./images/guide/introduction/use/apptray-mac-1.jpg" alt="下载" width=500>
 
 ### Win 托盘菜单
-![下载](./images/guide/introduction/use/apptray-win-1.png)
+<!-- ![下载](./images/guide/introduction/use/apptray-win-1.png) -->
+<img src="./images/guide/introduction/use/apptray-win-1.png" alt="下载" width=400>
 
 ## 帮您更好地使用各大AI平台的能力
 ### 目前支持腾讯云，百度，阿里，科大讯飞，有道，搜狗，Mathpix等多家AI平台
