@@ -105,14 +105,18 @@ OCR 功能：
 | 截图翻译  |「截图翻译」快捷键直接触发截图，翻译窗口展示翻译结果 | ![截图翻译](./images/guide/quickstart/translate-4.gif) |
 | 输入翻译  | 在翻译窗口输入翻译文本，点击「输入翻译」按钮触发 | ![輸入翻译](./images/guide/quickstart/translate-5.gif) |
 
-## 帮您更好地使用各大AI平台的能力
-### 目前支持腾讯云，百度，阿里，科大讯飞，有道，搜狗，Mathpix等多家AI平台
-#### 文字识别，表格识别，公式识别，批量识别，PDF转Word。不用多平台注册，方便切换接口。QQ群: 369653532
+## 总结
+**易用AI，帮您更好地使用各大AI平台的能力**
 
+目前支持腾讯云，百度，阿里，科大讯飞，有道，Mathpix，彩云小译，DeepL等多家AI平台
 
-## 相比天若OCR,PandaOCR 等竞品，跨平台支持Mac，不用注册（但可选）各平台账号密匙
+文字识别，表格识别，公式识别，批量识别，PDF转Word等多平台OCR功能
 
-### 后续版本规划使用PaddleOCR，tesseract等开源库实现本地OCR功能。
+划词翻译，截图翻译，输入翻译等多平台对比翻译功能
 
-## 教程
-https://docs.easyuseai.com/guide
+一般不用但可以多平台注册，方便切换接口。
+## 最后
+
+易用AI 不是开源软件，目前本仓库主要用于提供反馈渠道。
+
+[👉 点此查看联系方式](https://docs.easyuseai.com/general/contact.html)
