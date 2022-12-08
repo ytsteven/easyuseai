@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" width=240/>
+  <img src="https://cdn.easyuseai.com/docs/v1/images/logo.png" width=240/>
 </p>
 
 # 易用AI
@@ -33,8 +33,8 @@ OCR 功能：
 ## 安装
 [官网下载](http://easyuseai.com)
 
-<!-- ![下载](./images/guide/download.png) -->
-<img src="./images/guide/download.png" alt="下载" width=548>
+<!-- ![下载](https://cdn.easyuseai.com/docs/v1/images/guide/download.png) -->
+<img src="https://cdn.easyuseai.com/docs/v1/images/guide/download.png" alt="下载" width=548>
 
 ## 使用方法
 详细使用方法请直接查看文档 [👉 点此跳转文档](https://docs.easyuseai.com)
@@ -42,12 +42,12 @@ OCR 功能：
 [易用AI](http://easyuseai.com) 是一个菜单栏软件，启动之后，菜单栏会出现一个图标，点击菜单选项即可触发相应的功能，如下所示：
 
 ### Mac 托盘菜单
-<!-- ![下载](./images/guide/introduction/use/apptray-mac-1.jpg) -->
-<img src="./images/guide/introduction/use/apptray-mac-1.jpg" alt="下载" height=400>
+<!-- ![下载](https://cdn.easyuseai.com/docs/v1/images/guide/introduction/use/apptray-mac-1.jpg) -->
+<img src="https://cdn.easyuseai.com/docs/v1/images/guide/introduction/apptray-mac-1.jpg" alt="下载" height=400>
 
 ### Win 托盘菜单
-<!-- ![下载](./images/guide/introduction/use/apptray-win-1.png) -->
-<img src="./images/guide/introduction/use/apptray-win-1.png" alt="下载" height=300>
+<!-- ![下载](https://cdn.easyuseai.com/docs/v1/images/guide/introduction/use/apptray-win-1.png) -->
+<img src="https://cdn.easyuseai.com/docs/v1/images/guide/introduction/apptray-win-1.png" alt="下载" height=300>
 
 ### OCR 功能
 
@@ -60,7 +60,7 @@ OCR 功能：
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
 
-![文字识别](./images/guide/ocr-text-33-5.gif)
+![文字识别](https://cdn.easyuseai.com/docs/v1/images/guide/ocr-text-33-5.gif)
 
 **表格识别**
 1. 触发截图识别动作
@@ -70,7 +70,7 @@ OCR 功能：
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
    
-![表格识别](./images/guide/ocr-table.png)
+![表格识别](https://cdn.easyuseai.com/docs/v1/images/guide/ocr-table.png)
 
 **公式识别**
 1. 触发截图识别动作
@@ -80,7 +80,7 @@ OCR 功能：
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
 
-![公式识别](./images/guide/ocr-formula.png)
+![公式识别](https://cdn.easyuseai.com/docs/v1/images/guide/ocr-formula.png)
 
 **批量导入本地图片**
 1. 触发「导入本地图片」按钮
@@ -102,12 +102,12 @@ OCR 功能：
 ### 翻译功能
 |  类型   | 描述  | 预览  |
 |  ----  | ----  |----  |
-| 自动翻译  | 打开「自动翻译」开关，识别后自动翻译 |![自动翻译](./images/guide/ocr-translate-auto.png)|
+| 自动翻译  | 打开「自动翻译」开关，识别后自动翻译 |![自动翻译](https://cdn.easyuseai.com/docs/v1/images/guide/ocr-translate-auto.png)|
 | 触发翻译  | 识别后按下「翻译」快捷键（无默认快捷键）或「翻译」按钮触发 |效果同上|
 | 复制翻译  | 先选中并复制待翻译文本，按下「复制翻译」快捷键（无默认快捷键）直接触发翻译  |效果同上 |
-| 划词翻译  | 先选中待翻译文本，「划词翻译」快捷键直接触发翻译 |![自动翻译](./images/guide/quickstart/translate-2.gif) |
-| 截图翻译  |「截图翻译」快捷键直接触发截图，翻译窗口展示翻译结果 | ![截图翻译](./images/guide/quickstart/translate-4.gif) |
-| 输入翻译  | 在翻译窗口输入翻译文本，点击「输入翻译」按钮触发 | ![輸入翻译](./images/guide/quickstart/translate-5.gif) |
+| 划词翻译  | 先选中待翻译文本，「划词翻译」快捷键直接触发翻译 |![自动翻译](https://cdn.easyuseai.com/docs/v1/images/guide/quickstart/translate-2.gif) |
+| 截图翻译  |「截图翻译」快捷键直接触发截图，翻译窗口展示翻译结果 | ![截图翻译](https://cdn.easyuseai.com/docs/v1/images/guide/quickstart/translate-4.gif) |
+| 输入翻译  | 在翻译窗口输入翻译文本，点击「输入翻译」按钮触发 | ![輸入翻译](https://cdn.easyuseai.com/docs/v1/images/guide/quickstart/translate-5.gif) |
 
 ## 总结
 **易用AI，帮您更好地使用各大AI平台的能力**
