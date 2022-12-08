@@ -59,7 +59,8 @@ OCR 功能：
     - 或点击菜单栏「文字识别」按钮
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
-![Mac安装打开](./images/guide/ocr-text-33-5.gif)
+
+![文字识别](./images/guide/ocr-text-33-5.gif)
 
 **表格识别**
 1. 触发截图识别动作
@@ -68,7 +69,8 @@ OCR 功能：
     - 或点击菜单栏「表格识别」按钮
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
-![Mac安装打开](./images/guide/ocr-table.png)
+   
+![表格识别](./images/guide/ocr-table.png)
 
 **公式识别**
 1. 触发截图识别动作
@@ -77,7 +79,8 @@ OCR 功能：
     - 或点击菜单栏「公式识别」按钮
 2. 选中屏幕上的对应的位置
 3. 松手即可开始识别
-![Mac安装打开](./images/guide/ocr-formula.png)
+
+![公式识别](./images/guide/ocr-formula.png)
 
 **批量导入本地图片**
 1. 触发「导入本地图片」按钮
