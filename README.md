@@ -43,11 +43,11 @@ OCR 功能：
 
 ### Mac 托盘菜单
 <!-- ![下载](./images/guide/introduction/use/apptray-mac-1.jpg) -->
-<img src="./images/guide/introduction/use/apptray-mac-1.jpg" alt="下载" width=500>
+<img src="./images/guide/introduction/use/apptray-mac-1.jpg" alt="下载" width=400>
 
 ### Win 托盘菜单
 <!-- ![下载](./images/guide/introduction/use/apptray-win-1.png) -->
-<img src="./images/guide/introduction/use/apptray-win-1.png" alt="下载" width=400>
+<img src="./images/guide/introduction/use/apptray-win-1.png" alt="下载" width=300>
 
 ## 帮您更好地使用各大AI平台的能力
 ### 目前支持腾讯云，百度，阿里，科大讯飞，有道，搜狗，Mathpix等多家AI平台
