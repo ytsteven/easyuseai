@@ -20,6 +20,7 @@ OCR 功能：
 - [x] 导出Word
 - [x] 自动复制
 - [x] 智能分段
+- [x] 识别后搜索
 
 翻译功能：
 
@@ -33,8 +34,10 @@ OCR 功能：
 ## 安装
 [官网下载](http://easyuseai.com)
 
-<!-- ![下载](https://cdn.easyuseai.com/docs/v1/images/guide/download.png) -->
 <img src="https://cdn.easyuseai.com/docs/v1/images/guide/download.png" alt="下载" width=548>
+
+## 概览
+![概览](https://cdn.easyuseai.com/docs/v1/images/guide/introduction/overview-1.png)
 
 ## 使用方法
 详细使用方法请直接查看文档 [👉 点此跳转文档](https://docs.easyuseai.com)
