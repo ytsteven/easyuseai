@@ -32,7 +32,7 @@ OCR 功能：
 - [x] 驼峰拆分、蛇形拆分
 
 ## 安装
-[官网下载](http://easyuseai.com)
+[官网下载](http://easyuseai.com)  或者  [gitcode下载](https://gitcode.net/yangting164760/easyuseai/-/tree/master/release)
 
 <img src="https://cdn.easyuseai.com/docs/v1/images/guide/download.png" alt="下载" width=548>
 
