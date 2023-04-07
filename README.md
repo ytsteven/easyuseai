@@ -1,3 +1,6 @@
+# [易用AI](http://easyuseai.com)目前客户端支持的[插件集合](https://github.com/topics/easyuseai-plugin)，包括openai 翻译和润色等！
+
+
 <p align="center">
   <img src="https://cdn.easyuseai.com/docs/v1/images/logo.png" width=240/>
 </p>
